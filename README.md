@@ -1,3 +1,7 @@
+# Simulating Question-answering Correctness with a Conditional Diffusion
+Thanks for your interest! This repository is the implementation of DSim.
+
+
 # Run DSim
 1. download the dataset, we upload the one dataset we use (ednet with 500 samples) in https://www.dropbox.com/scl/fo/72604nn56kkhahtl3jny4/AOL6tHJo02ZdRy3k2FiOZYU?rlkey=k577qlem5s6jpz8qgk3gkl7gu&st=pqiq9mzb&dl=0.
 2. move the data you download to data/ednet500/
