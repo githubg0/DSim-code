@@ -5,9 +5,9 @@
 
 
 # Here are some issues you might encounter, you can address that with the solutions:
-1. FileExistsError: [Errno 17] File exists: 'run_result/'
+1. FileExistsError: [Errno 17] File exists: 'run/xxxx'
    
-   please delete file run_result
+   please delete file run/xxx or run with "--run_exist", e.g., "python main.py --run_exist"
    
 2. FileNotFoundError: [Errno 2] No such file or directory: 'data/ednet500/problem_skill_maxSkillOfProblem_number.pkl'
 
